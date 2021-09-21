@@ -61,4 +61,4 @@ chmod 777 -R app/
 ~~~
 npm i
 ~~~
-8. TRY TO REACH localhost:8088
+7. TRY TO REACH localhost:8088
