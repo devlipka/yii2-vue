@@ -20,7 +20,7 @@ module.exports = (env, argv) => {
         ],
         output: {
             path: PATHS.build,
-            filename: config.production ? 'app.min.js' : 'app.js'
+            filename: config.production ? 'index.min.js' : 'index.js'
         },
         module: {
             rules: [

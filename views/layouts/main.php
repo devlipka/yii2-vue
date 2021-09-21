@@ -67,6 +67,9 @@ AppAsset::register($this);
     </div>
 </div>
 
+<!-- DIV for VUE components rendering -->
+<div id="app"></div>
+
 <footer class="footer">
     <div class="container">
         <p class="pull-left">&copy; My Company <?= date('Y') ?></p>

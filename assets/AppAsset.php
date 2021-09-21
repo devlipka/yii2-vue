@@ -23,7 +23,7 @@ class AppAsset extends AssetBundle
         'css/site.css',
     ];
     public $js = [
-        'js/app.js',
+        'js/index.js', // Import of generated js file
     ];
     public $depends = [
         'yii\web\YiiAsset',
