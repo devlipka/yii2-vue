@@ -1,0 +1,22 @@
+# phpstorm project files
+.idea
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+tests/_output/*
+
+#vagrant folder
+/.vagrant
+
+#db folder
+/yiiapp_db
+
+#.env file
+.env
+
+#node_modules folder
+/node_modules
